@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import heroImg1 from '../assets/36ecf84f3148a1af1fb23f7aff52707773077d92.png';
-import heroImg2 from '../assets/f41d3175442526f05ced82d815c574a95517d9ec.png';
-import heroImg3 from '../assets/c6104a9f802015ab99670a7e80211afac0d4ac73.png';
+import heroImg1 from '../../assets/36ecf84f3148a1af1fb23f7aff52707773077d92.png';
+import heroImg2 from '../../assets/f41d3175442526f05ced82d815c574a95517d9ec.png';
+import heroImg3 from '../../assets/c6104a9f802015ab99670a7e80211afac0d4ac73.png';
 
 const heroImages = [
   heroImg1,
