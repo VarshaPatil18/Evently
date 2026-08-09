@@ -1,5 +1,5 @@
 import { FileCheck, ThumbsUp, Rocket } from 'lucide-react';
-import whyChooseImg from '../assets/079e99493a173965b7b8d3b53d4f93dfeef5c342.png';
+import whyChooseImg from '../../assets/079e99493a173965b7b8d3b53d4f93dfeef5c342.png';
 
 const reasons = [
   {
